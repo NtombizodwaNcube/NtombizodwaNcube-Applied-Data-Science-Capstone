@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NtombizodwaNcube
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me +27814028907
 
 <!---
